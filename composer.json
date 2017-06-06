@@ -1,5 +1,5 @@
 {
-    "name": "socloz/nsqphp",
+    "name": "henter/nsqphp",
     "description": "PHP client for NSQ",
     "type": "library",
     "keywords": [
